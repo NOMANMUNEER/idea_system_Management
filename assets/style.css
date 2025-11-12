@@ -1,0 +1,33 @@
+/* 1. Set the new font and light gray background */
+body {
+    font-family: 'Poppins', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    background-color: #f8f9fa; /* Bootstrap's light gray */
+}
+
+/* 2. Style the navbar brand title */
+.app-title {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+}
+
+/* 3. Create the main "sheet" for our content */
+.content-wrapper {
+    background-color: #ffffff;
+    border-radius: 12px; /* Softer, rounded corners */
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05); /* Soft shadow */
+    padding: 2.5rem; /* More space inside */
+}
+
+/* 4. Improve the look of your idea cards (from index.php) */
+.card {
+    border: none; /* Remove the default border */
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+    transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+}
+
+/* 5. Add a hover effect to the cards */
+.card:hover {
+    transform: translateY(-5px); /* "Lift" the card on hover */
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
+}
