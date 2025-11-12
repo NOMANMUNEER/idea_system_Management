@@ -1,4 +1,4 @@
-# 💡 Idea Management System (PHP)
+# Idea Management System (PHP)
 
 A simple, self-hosted web application for managing personal ideas, built with **PHP**, **MySQL**, and **Bootstrap 5**. This project is a complete **CRUD** (Create, Read, Update, Delete) application, perfect for developers learning PHP or anyone needing a lightweight tool to track projects and tasks.
 
@@ -12,13 +12,14 @@ This application runs in a **XAMPP** environment (Apache + MySQL).
 ![Main dashboard view showing a list of ideas](images/index1.png)
 
 **2. Adding a New Idea**
-![View of the 'Add Idea' form](images/index_added.png)
+![Alternate dashboard view](images/index2.png)
+
 
 **3. Idea Marked as Done**
 ![Dashboard view showing an idea marked as done](images/index_done.png)
 
 **(Additional Dashboard View)**
-![Alternate dashboard view](images/index2.png)
+![View of the 'Add Idea' form](images/index_added.png)
 
 ---
 
