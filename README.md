@@ -8,13 +8,17 @@ This application runs in a **XAMPP** environment (Apache + MySQL).
 
 ## 📸 Screenshots
 
-*(This is the most important section! After you run the project, take screenshots and add them here. This is what people want to see first.)*
+**1. Main Dashboard (Pending Ideas)**
+![Main dashboard view showing a list of ideas](images/index1.png)
 
-**Dashboard View**
-> 
+**2. Adding a New Idea**
+![View of the 'Add Idea' form](images/index_added.png)
 
-**Add/Edit Form**
-> 
+**3. Idea Marked as Done**
+![Dashboard view showing an idea marked as done](images/index_done.png)
+
+**(Additional Dashboard View)**
+![Alternate dashboard view](images/index2.png)
 
 ---
 
